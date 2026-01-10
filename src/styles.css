@@ -1,0 +1,9 @@
+/* Minimal reset and body styles for the Eliza UI */
+html,body,#root { height:100%; margin:0; padding:0; }
+body { font-family: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:#ffffff; color:#0a0a0a; }
+
+/* Make root app full height */
+#root > div { height:100%; }
+
+/* Small helper for buttons */
+button { font-family: inherit; }

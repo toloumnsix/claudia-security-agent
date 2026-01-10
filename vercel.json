@@ -1,0 +1,16 @@
+{
+    "rewrites": [
+        {
+            "source": "/docs",
+            "destination": "/"
+        },
+        {
+            "source": "/developers/api",
+            "destination": "/"
+        },
+        {
+            "source": "/leaderboard",
+            "destination": "/"
+        }
+    ]
+}
