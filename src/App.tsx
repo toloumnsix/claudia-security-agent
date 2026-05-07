@@ -1,4 +1,4 @@
-// Misaki Repository Intelligence - Main Application
+// Kyla Agent - Main Application
 // Refactored multi-file structure for improved Build Score
 
 import { useState } from 'react';
@@ -51,7 +51,7 @@ export default function App() {
 
   const handleScan = () => {
     // Trigger scan from the center panel
-    startScan('github.com/misaki-intel/misaki-core');
+    startScan('github.com/kyla-agent/core');
   };
 
   if (view === 'landing') {
@@ -189,7 +189,7 @@ function TopBar({ onHome }: { onHome: () => void }) {
           className="font-semibold tracking-wide"
           style={{ fontSize: 15 }}
         >
-          Misaki Repository Intelligence
+          Kyla Agent
         </span>
       </button>
 
@@ -245,7 +245,7 @@ function TopBar({ onHome }: { onHome: () => void }) {
           color: COLORS.textSecondary,
         }}
       >
-        user@misaki.dev
+        user@kyla.dev
       </div>
     </div>
   );

@@ -35,17 +35,17 @@ export const Topbar: React.FC<TopbarProps> = ({
           style={{ borderColor: 'var(--border-panel)' }}
         />
         <span className="font-space font-semibold text-base" style={{ color: 'var(--text-primary)' }}>
-          Eliza Security Agent
+          Kyla Agent
         </span>
         <span className="text-xs px-2 py-0.5 rounded" style={{ backgroundColor: 'var(--accent-secondary)', color: 'white' }}>
-          v2.0
+          v1.0
         </span>
       </div>
 
       {/* Center section - Platform links */}
       <div className="flex items-center gap-2">
         <a
-          href="https://github.com/HandInstance/eliza-security-agent"
+          href="https://github.com/HandInstance/kyla-agent"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded hover:bg-[var(--bg-card)] transition-colors"

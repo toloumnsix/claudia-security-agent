@@ -1,16 +1,16 @@
 {
-  "name": "misaki-repository-intelligence",
+  "name": "kyla-agent",
   "private": true,
-  "version": "2.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "description": "Repository intelligence platform. Trust verified. $MISAKI",
-  "homepage": "https://misakiintel.tech",
+  "description": "AI agent platform with a skills marketplace, security scanner interface, and repository trust scoring dashboard.",
+  "homepage": "https://kyla-agent.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HandInstance/misaki-repository-intelligence.git"
+    "url": "https://github.com/HandInstance/kyla-agent.git"
   },
   "bugs": {
-    "url": "https://github.com/HandInstance/misaki-repository-intelligence/issues"
+    "url": "https://github.com/HandInstance/kyla-agent/issues"
   },
   "funding": {
     "type": "github",
@@ -94,21 +94,16 @@
     "vite-plugin-source-identifier": "1.1.2"
   },
   "keywords": [
-    "security",
+    "agent",
+    "ai",
+    "skills-marketplace",
+    "security-scanner",
     "github",
     "trust-score",
-    "web3",
-    "crypto",
-    "ai",
+    "repository-intelligence",
     "react",
     "vite",
-    "typescript",
-    "repository-scanner",
-    "code-analysis",
-    "intelligence",
-    "misaki",
-    "misaki-intelligence",
-    "repository-intelligence"
+    "typescript"
   ],
   "author": "HandInstance",
   "license": "MIT"
