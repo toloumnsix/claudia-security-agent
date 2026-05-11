@@ -1,13 +1,13 @@
-# Kyla Agent
+# Claudia Security Agent
 
-> AI agent platform with a skills marketplace, security scanner interface, and repository trust scoring dashboard.
+> AI-powered security agent platform with repository intelligence, threat scanning, and trust verification capabilities.
 
 [![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-black?style=flat-square)](https://github.com/HandInstance/kyla-agent)
+[![Version](https://img.shields.io/badge/version-1.0.0-black?style=flat-square)](https://github.com/HandInstance/claudia-security-agent)
 [![React](https://img.shields.io/badge/React-18.3-black?style=flat-square)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5.4-black?style=flat-square)](https://vitejs.dev)
-[![CI](https://github.com/HandInstance/kyla-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/HandInstance/kyla-agent/actions)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-black?style=flat-square)](https://github.com/HandInstance/kyla-agent/pulls)
+[![CI](https://github.com/HandInstance/claudia-security-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/HandInstance/claudia-security-agent/actions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-black?style=flat-square)](https://github.com/HandInstance/claudia-security-agent/pulls)
 
 ## Features
 

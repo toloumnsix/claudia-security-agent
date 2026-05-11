@@ -1,16 +1,16 @@
 {
-  "name": "kyla-agent",
+  "name": "claudia-security-agent",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "AI agent platform with a skills marketplace, security scanner interface, and repository trust scoring dashboard.",
-  "homepage": "https://kyla-agent.dev",
+  "description": "AI-powered security agent platform with repository intelligence, threat scanning, and trust verification capabilities.",
+  "homepage": "https://claudia-security.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HandInstance/kyla-agent.git"
+    "url": "https://github.com/HandInstance/claudia-security-agent.git"
   },
   "bugs": {
-    "url": "https://github.com/HandInstance/kyla-agent/issues"
+    "url": "https://github.com/HandInstance/claudia-security-agent/issues"
   },
   "funding": {
     "type": "github",
@@ -64,6 +64,7 @@
     "lucide-react": "^0.364.0",
     "next-themes": "^0.4.4",
     "playwright": "1.57.0",
+    "pnpm-store": "link:/tmp/pnpm-store",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.54.2",
