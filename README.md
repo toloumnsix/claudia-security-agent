@@ -1,5 +1,5 @@
 # Claudia Security Agent
-
+https://x.com/claudiasecurint
 > AI-powered security agent platform with repository intelligence, threat scanning, and trust verification capabilities.
 
 [![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)](./LICENSE)
